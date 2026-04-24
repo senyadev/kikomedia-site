@@ -1,0 +1,9 @@
+{
+  "name": "bright-department-801010-framer-local",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "serve": "node server.js",
+    "dev": "node server.js"
+  }
+}

@@ -1,0 +1,244 @@
+Uri: https://bright-department-801010.framer.app/
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\index.htm
+Content Type: text/html
+
+Uri: https://fonts.gstatic.com/s/moderustic/v3/2-ci9J9s3o6eLFNHFdXYQu3doKFD.woff2
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\s\moderustic\v3\2-ci9J9s3o6eLFNHFdXYQu3doKFD.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/moderustic/v3/2-ci9J9s3o6eLFNHFdXYQufdoKFD.woff2
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\s\moderustic\v3\2-ci9J9s3o6eLFNHFdXYQufdoKFD.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/moderustic/v3/2-ci9J9s3o6eLFNHFdXYQundoA.woff2
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\s\moderustic\v3\2-ci9J9s3o6eLFNHFdXYQundoA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/moderustic/v3/2-ci9J9s3o6eLFNHFdXYQurdoKFD.woff2
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\s\moderustic\v3\2-ci9J9s3o6eLFNHFdXYQurdoKFD.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/moderustic/v3/2-ci9J9s3o6eLFNHFdXYQuTdoKFD.woff2
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\s\moderustic\v3\2-ci9J9s3o6eLFNHFdXYQuTdoKFD.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5A3Ce6C9YYmCjpQx9M4inSaKU.woff2
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\assets\5A3Ce6C9YYmCjpQx9M4inSaKU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\assets\5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/6mJuEAguuIuMog10gGvH5d3cl8.woff2
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\assets\6mJuEAguuIuMog10gGvH5d3cl8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/A0Wcc7NgXMjUuFdquHDrIZpzZw0.woff2
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\assets\A0Wcc7NgXMjUuFdquHDrIZpzZw0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\assets\b6Y37FthZeALduNqHicBT6FutY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/cRJyLNuTJR5jbyKzGi33wU9cqIQ.woff2
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\assets\cRJyLNuTJR5jbyKzGi33wU9cqIQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DolVirEGb34pEXEp8t8FQBSK4.woff2
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\assets\DolVirEGb34pEXEp8t8FQBSK4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\assets\EOr0mi4hNtlgWNn9if640EZzXCo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\assets\GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/hyOgCu0Xnghbimh0pE8QTvtt2AU.woff2
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\assets\hyOgCu0Xnghbimh0pE8QTvtt2AU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\assets\JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/lEJLP4R0yuCaMCjSXYHtJw72M.woff2
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\assets\lEJLP4R0yuCaMCjSXYHtJw72M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/n2JbmfNIqwIgChGPA6vsTHTITA.woff2
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\assets\n2JbmfNIqwIgChGPA6vsTHTITA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/NeGmSOXrPBfEFIy5YZeHq17LEDA.woff2
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\assets\NeGmSOXrPBfEFIy5YZeHq17LEDA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/otTaNuNpVK4RbdlT7zDDdKvQBA.woff2
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\assets\otTaNuNpVK4RbdlT7zDDdKvQBA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/oYaAX5himiTPYuN8vLWnqBbfD2s.woff2
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\assets\oYaAX5himiTPYuN8vLWnqBbfD2s.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\assets\OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Qx95Xyt0Ka3SGhinnbXIGpEIyP4.woff2
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\assets\Qx95Xyt0Ka3SGhinnbXIGpEIyP4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/UjlFhCnUjxhNfep4oYBPqnEssyo.woff2
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\assets\UjlFhCnUjxhNfep4oYBPqnEssyo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/xYYWaj7wCU5zSQH0eXvSaS19wo.woff2
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\assets\xYYWaj7wCU5zSQH0eXvSaS19wo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\assets\Y9k9QrlZAqio88Klkmbd8VoMQc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/yDtI2UI8XcEg1W2je9XPN3Noo.woff2
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\assets\yDtI2UI8XcEg1W2je9XPN3Noo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/images/aVcuDRAiNbbHqJ4zmrII3bywZQ.png?scale-down-to=512&width=1024&height=1024
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\images\aVcuDRAiNbbHqJ4zmrII3bywZQ-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/aVcuDRAiNbbHqJ4zmrII3bywZQ.png?width=1024&height=1024
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\images\aVcuDRAiNbbHqJ4zmrII3bywZQ.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/cplmu2BbDlgeKR3JZqFpSZ7pvk.png?scale-down-to=1024&width=2880&height=1296
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\images\cplmu2BbDlgeKR3JZqFpSZ7pvk-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/cplmu2BbDlgeKR3JZqFpSZ7pvk.png?scale-down-to=2048&width=2880&height=1296
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\images\cplmu2BbDlgeKR3JZqFpSZ7pvk-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/cplmu2BbDlgeKR3JZqFpSZ7pvk.png?scale-down-to=512&width=2880&height=1296
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\images\cplmu2BbDlgeKR3JZqFpSZ7pvk-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/cplmu2BbDlgeKR3JZqFpSZ7pvk.png?width=2880&height=1296
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\images\cplmu2BbDlgeKR3JZqFpSZ7pvk.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/d98RqHCDlzKl41R7iSpz2fSerY.png?scale-down-to=1024&width=1024&height=1536
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\images\d98RqHCDlzKl41R7iSpz2fSerY-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/d98RqHCDlzKl41R7iSpz2fSerY.png?width=1024&height=1536
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\images\d98RqHCDlzKl41R7iSpz2fSerY.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/hVB1su1zj2tFH1p5N0D2saQH2A.png?scale-down-to=512&width=848&height=848
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\images\hVB1su1zj2tFH1p5N0D2saQH2A-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/hVB1su1zj2tFH1p5N0D2saQH2A.png?width=848&height=848
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\images\hVB1su1zj2tFH1p5N0D2saQH2A.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/JpI7RHDEh0GpvgNAaaZKR2lrigo.jpg?scale-down-to=512&width=640&height=640
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\images\JpI7RHDEh0GpvgNAaaZKR2lrigo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/JpI7RHDEh0GpvgNAaaZKR2lrigo.jpg?width=640&height=640
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\images\JpI7RHDEh0GpvgNAaaZKR2lrigo.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/k47J7Ys3AE63TDYtP2cEfLd8rjo.png?scale-down-to=512&width=618&height=442
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\images\k47J7Ys3AE63TDYtP2cEfLd8rjo-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/k47J7Ys3AE63TDYtP2cEfLd8rjo.png?width=618&height=442
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\images\k47J7Ys3AE63TDYtP2cEfLd8rjo.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/m0uEkHlabwHfnznOgHW2B88ynr0.png?scale-down-to=512&width=812&height=776
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\images\m0uEkHlabwHfnznOgHW2B88ynr0-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/m0uEkHlabwHfnznOgHW2B88ynr0.png?width=812&height=776
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\images\m0uEkHlabwHfnznOgHW2B88ynr0.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/QR0GXDLu4DU0PIQrMLlCdukzSt8.png?scale-down-to=512&width=680&height=680
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\images\QR0GXDLu4DU0PIQrMLlCdukzSt8-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/QR0GXDLu4DU0PIQrMLlCdukzSt8.png?width=680&height=680
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\images\QR0GXDLu4DU0PIQrMLlCdukzSt8.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/qRECk2LVjnVlmUWkUXNWhySUPTY.png?scale-down-to=1024&width=1176&height=1181
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\images\qRECk2LVjnVlmUWkUXNWhySUPTY-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/qRECk2LVjnVlmUWkUXNWhySUPTY.png?width=1176&height=1181
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\images\qRECk2LVjnVlmUWkUXNWhySUPTY.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/rSyEUzuMerP4WT6VpIJagWAPzfo.png?width=756&height=828
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\images\rSyEUzuMerP4WT6VpIJagWAPzfo.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/VV3XYJlghf9Jj2jaI1DNJ775ww.png
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\images\VV3XYJlghf9Jj2jaI1DNJ775ww.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/WxS3oC4rKajvRb8m0HGroIUysw.png?scale-down-to=512&width=736&height=736
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\images\WxS3oC4rKajvRb8m0HGroIUysw-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/WxS3oC4rKajvRb8m0HGroIUysw.png?width=736&height=736
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\images\WxS3oC4rKajvRb8m0HGroIUysw.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/yVN0jytz8koHWIIuldKvuADFT88.jpg?scale-down-to=512&width=640&height=640
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\images\yVN0jytz8koHWIIuldKvuADFT88-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/yVN0jytz8koHWIIuldKvuADFT88.jpg?width=640&height=640
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\images\yVN0jytz8koHWIIuldKvuADFT88.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/sites/30w0GNES2e8DlCDZopgqTY/CCcTFUIVjkr_W4K5ETS0CvlbIf-Ig5kNfR_x45JrodI.CuccHtLN.mjs
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\sites\30w0GNES2e8DlCDZopgqTY\CCcTFUIVjkr_W4K5ETS0CvlbIf-Ig5kNfR_x45JrodI.CuccHtLN.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/30w0GNES2e8DlCDZopgqTY/framer.D4C1HO7D.mjs
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\sites\30w0GNES2e8DlCDZopgqTY\framer.D4C1HO7D.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/30w0GNES2e8DlCDZopgqTY/motion.B8ZcAVwv.mjs
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\sites\30w0GNES2e8DlCDZopgqTY\motion.B8ZcAVwv.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/30w0GNES2e8DlCDZopgqTY/react.DY_fZBnK.mjs
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\sites\30w0GNES2e8DlCDZopgqTY\react.DY_fZBnK.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/30w0GNES2e8DlCDZopgqTY/rolldown-runtime.DhnBybyj.mjs
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\sites\30w0GNES2e8DlCDZopgqTY\rolldown-runtime.DhnBybyj.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/30w0GNES2e8DlCDZopgqTY/script_main.Bkd7OuKq.mjs
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\sites\30w0GNES2e8DlCDZopgqTY\script_main.Bkd7OuKq.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/30w0GNES2e8DlCDZopgqTY/shared-lib.CWyOZPmx.mjs
+File Name: D:\site\bright-department-801010.framer.app\bright-department-801010.framer.app\sites\30w0GNES2e8DlCDZopgqTY\shared-lib.CWyOZPmx.mjs
+Content Type: text/javascript
+
